@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebPhotoApplication</string>
+    <string name="dialog_error_title">Ooops</string>
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_comments">Something went wrong. Please try again</string>
+    <string name="photo_description_title">Photo Description</string>
+</resources>
