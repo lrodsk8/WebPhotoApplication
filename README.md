@@ -1,3 +1,4 @@
 # WebPhotoApplication
-Simple Image Fetching App
-pending: tests, dependency injection.
+Simple Image Fetching App.
+
+Pending: tests, dependency injection.
